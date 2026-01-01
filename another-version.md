@@ -86,7 +86,7 @@ That single step restored my peace.
 
 ## **4. A New Direction: Freelancing, Learning, and Building Something of My Own**
 
-<!-- After leaving the job, I needed a PPA that gave me breathing room. While I was figuring things out, Timothy reached out with a freelance project. He had a client who needed an MQL trading robot. -->
+After leaving the job, I needed a PPA that gave me breathing room. While I was figuring things out, Timothy reached out with a freelance project. He had a client who needed an MQL trading robot.
 
 I had never written MQL before.
 
