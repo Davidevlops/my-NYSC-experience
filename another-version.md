@@ -117,6 +117,5 @@ NYSC didn’t just give me memories—it gave me clarity.
 
 Today, I’m building software, working with people, and growing a tech agency, but this time at a pace and structure that aligns with my life.
 
-**And that, more than anything, is the real win.**
 
 ---
