@@ -104,7 +104,7 @@ It felt like something meaningful — something I owned.
 
 ## **Conclusion: What NYSC Truly Taught Me**
 
-<!-- Looking back, my NYSC year wasn’t just about uniforms, drills, or tired parade grounds. It was a year that taught me:
+Looking back, my NYSC year wasn’t just about uniforms, drills, or tired parade grounds. It was a year that taught me:
 
 * how to stay calm when things aren’t working,
 * how to choose peace over pressure,
@@ -115,7 +115,7 @@ From registration stress to the cold of Iseyin, from a demanding tech job to bui
 
 NYSC didn’t just give me memories—it gave me clarity.
 
-Today, I’m building software, working with people, and growing a tech agency, but this time at a pace and structure that aligns with my life. -->
+Today, I’m building software, working with people, and growing a tech agency, but this time at a pace and structure that aligns with my life.
 
 **And that, more than anything, is the real win.**
 
